@@ -1,0 +1,2 @@
+# LOGICAL-PROGRAMS
+day 6 
